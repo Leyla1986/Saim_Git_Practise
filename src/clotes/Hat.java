@@ -4,4 +4,8 @@ public class Hat {
     /**
      * winter
      */
+    /**
+     * summer
+     */
+
 }
